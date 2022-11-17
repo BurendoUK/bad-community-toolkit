@@ -1,8 +1,10 @@
 ---
 title: Scrum
+author: garygreenburendo
 tags:
     - Scrum
     - Frameworks
+    - author-garygreenburendo
 ---
 
 # Scrum
@@ -12,7 +14,7 @@ Scrum was developed in the early 1990s by [Jeff Sutherland](https://scrumguides.
 
 The Scrum Guide contains the definition of Scrum and is constantly evolving / under review.  The latest Scrum Guide is availabel at [The Scrum Guide](https://scrumguides.org/).
 
-![Scrum Diagram](/static/img/Scrum.png)
+![Scrum Diagram](../../static/img/Scrum.png)
 <sup>&copy; Scrum.org[^1]</sup>
 
 ### Scrum Definition
@@ -23,8 +25,8 @@ In a nutshell, Scrum requires a Scrum Master to foster an environment where:
 
 1. A Product Owner orders the work for a complex problem into a Product Backlog.
 1. The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
- 1. The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
- 1. Repeat
+1. The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
+1. Repeat
 
 Scrum is simple. Try it as is and determine if its philosophy, theory, and structure help to achieve goals and create value. The Scrum framework is purposefully incomplete, only defining the parts required to implement Scrum theory. Scrum is built upon by the collective intelligence of the people using it. Rather than provide people with detailed instructions, the rules of Scrum guide their relationships and interactions.
 
@@ -40,10 +42,11 @@ Various processes, techniques and methods can be employed within the framework. 
 
 ## Areas of Focus
 
+* [Scrum Theory](/docs/Areas%20of%20Focus/Scrum/Scrum%20Theory) - The foundations of Scrum
 * [Scrum Values](/docs/Areas%20of%20Focus/Scrum/Scrum%20Values) - How we make sure that we are aligned to the goals and purpose of Agile and Scrum
-* [Scrum Roles](/docs/Areas%20of%20Focus/Scrum/Scrum%20Roles) - The team that will deliver solutions for our customers
-* [Scrum Artifacts](/docs/Areas%20of%20Focus/Scrum/Scrum%20Artifacts) - The tools (artifacts) we need in order to be transparent
+* [Scrum Team](/docs/Areas%20of%20Focus/Scrum/Scrum%20Team) - The team that will deliver solutions for our customers
 * [Scrum Events](/docs/Areas%20of%20Focus/Scrum/Scrum%20Events) - How we work as a team to deliver for our customers
+* [Scrum Artifacts](/docs/Areas%20of%20Focus/Scrum/Scrum%20Artifacts) - The tools (artifacts) we need in order to be transparent
 
 ## External Links
 

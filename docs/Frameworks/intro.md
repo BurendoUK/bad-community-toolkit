@@ -16,10 +16,12 @@ Typically these focus on the delivery aspects of a product/project. Each framewo
 has a specific version of an activity to specify approaches in a more granular way. We 
 have referred to these Activity versions as Framework activities.
 
-## Example Frameworks
+## Frameworks
 
 * Scrum
 * SAFe
 * LeSS
+* Liberating Structures
+* Team Topologies
 
 etc...

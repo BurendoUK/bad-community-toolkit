@@ -6,4 +6,4 @@ tags:
     - AOF
 ---
 
-# Scrum Roles
+# Scrum Team

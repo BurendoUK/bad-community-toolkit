@@ -11,6 +11,8 @@ tags:
 
 Welcome to the BAD Tools Community Toolkit.  This Toolkit is open to all under /License/ and anyone may submit change, new content or blogs.  It is community based.
 
+![Big Picture](../static/img/Hotspot1.drawio.svg)
+
 ## Contents
 
 * [Frameworks](/docs/Frameworks/intro) - Collections of capabilities to solve large problems
