@@ -15,7 +15,6 @@ The Scrum Guide contains the definition of Scrum and is constantly evolving / un
 ![Scrum Diagram](/static/img/Scrum.png)
 <sup>&copy; Scrum.org[^1]</sup>
 
-
 ### Scrum Definition
 
 Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
