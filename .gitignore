@@ -1,0 +1,30 @@
+#  Local .terraform directories
+**/.terraform/*
+.terraform/*
+
+# .tfstate files
+# Copied from Handbook
+
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+# generated files
+*.iml
+.idea/
+.terraform.lock.hcl
+
+# bootstrap generated files
+**/terraform.tf
+**/locals.tf
+**/variables.tf
+
+# node
+
+**/node_modules
+
+# docusaurus
+
+**/.docusaurus
