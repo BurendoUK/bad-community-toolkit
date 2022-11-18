@@ -1,6 +1,5 @@
 ---
 title: BAD Tools Community Toolkit
-sidebar_position: 1
 tags:
     - introduction
 ---
@@ -10,8 +9,6 @@ tags:
 ## Introduction
 
 Welcome to the BAD Tools Community Toolkit.  This Toolkit is open to all under /License/ and anyone may submit change, new content or blogs.  It is community based.
-
-![Big Picture](../static/img/Hotspot1.drawio.svg)
 
 ## Contents
 
@@ -23,5 +20,5 @@ Welcome to the BAD Tools Community Toolkit.  This Toolkit is open to all under /
 ## How to get involved
 
 :::info
-Some **content** with _Markdown_ 
+Info Test
 ::: 

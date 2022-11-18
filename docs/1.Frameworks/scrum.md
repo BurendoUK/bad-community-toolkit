@@ -4,7 +4,7 @@ author: garygreenburendo
 tags:
     - Scrum
     - Frameworks
-    - author-garygreenburendo
+    - garygreenburendo
 ---
 
 # Scrum
@@ -15,7 +15,7 @@ Scrum was developed in the early 1990s by [Jeff Sutherland](https://scrumguides.
 The Scrum Guide contains the definition of Scrum and is constantly evolving / under review.  The latest Scrum Guide is availabel at [The Scrum Guide](https://scrumguides.org/).
 
 ![Scrum Diagram](../../static/img/Scrum.png)
-<sup>&copy; Scrum.org[^1]</sup>
+<sup>&copy; Scrum.org [^1]</sup>
 
 ### Scrum Definition
 
@@ -32,13 +32,13 @@ Scrum is simple. Try it as is and determine if its philosophy, theory, and struc
 
 Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
 
-<sup>&copy; The Scrum Guide November 2020[^2]</sup>
+<sup>&copy; The Scrum Guide November 2020 [^2]</sup>
 
 ## Scrum Overview
 
 ![Scrum Diagram](https://www.scrumalliance.org/Media/2021/8/11/VER5-scrum-framework_2020-02lHo3kG0WFuHfo77D0Q.png)
 
-<sup>&copy; The Scrum Alliance[^3]</sup>
+<sup>&copy; The Scrum Alliance [^3]</sup>
 
 ## Areas of Focus
 

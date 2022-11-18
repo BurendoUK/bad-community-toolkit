@@ -1,25 +1,10 @@
-#  Local .terraform directories
-**/.terraform/*
-.terraform/*
-
-# .tfstate files
-# Copied from Handbook
-
-*.tfstate
-*.tfstate.*
-
-# .tfvars files
-*.tfvars
+# yarn files
+yarn.lock
 
 # generated files
 *.iml
 .idea/
 .terraform.lock.hcl
-
-# bootstrap generated files
-**/terraform.tf
-**/locals.tf
-**/variables.tf
 
 # node
 
