@@ -1,5 +1,5 @@
-# yarn files
-yarn.lock
+# yarn lock file
+**/yarn.lock
 
 # generated files
 *.iml

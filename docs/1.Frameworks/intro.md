@@ -1,7 +1,7 @@
 ---
 title: About Frameworks
 description: An introduction to BAD Tool Frameworks
-sidebar_position: 2
+sidebar_position: 1
 tags:
     - Introduction
 ---

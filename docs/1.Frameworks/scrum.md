@@ -1,6 +1,7 @@
 ---
 title: Scrum
 author: garygreenburendo
+sidebar_position: 2
 tags:
     - Scrum
     - Frameworks
@@ -10,14 +11,16 @@ tags:
 # Scrum
 
 ## Scrum Framework
+
 Scrum was developed in the early 1990s by [Jeff Sutherland](https://scrumguides.org/jeff.html) and [Ken Schwaber](https://scrumguides.org/ken.html).  The original version of the Scrum Guide (the basis for Scrum) was written in 2010, in order to support the adooption of Scrum.
 
 The Scrum Guide contains the definition of Scrum and is constantly evolving / under review.  The latest Scrum Guide is availabel at [The Scrum Guide](https://scrumguides.org/).
 
 ![Scrum Diagram](../../static/img/Scrum.png)
-<sup>&copy; Scrum.org [^1]</sup>
 
-### Scrum Definition
+_&copy; Scrum Org[^1]_
+
+## Scrum Definition
 
 Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
 
@@ -32,13 +35,13 @@ Scrum is simple. Try it as is and determine if its philosophy, theory, and struc
 
 Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
 
-<sup>&copy; The Scrum Guide November 2020 [^2]</sup>
+_&copy; The Scrum Guide November 2020[^2]_
 
 ## Scrum Overview
 
 ![Scrum Diagram](https://www.scrumalliance.org/Media/2021/8/11/VER5-scrum-framework_2020-02lHo3kG0WFuHfo77D0Q.png)
 
-<sup>&copy; The Scrum Alliance [^3]</sup>
+_&copy; The Scrum Alliance[^3]_
 
 ## Areas of Focus
 
@@ -54,6 +57,6 @@ Various processes, techniques and methods can be employed within the framework. 
 * [The Scrum Alliance](https://www.scrumalliance.org/)
 * [scrum.org](https://www.scrum.org/)
 
-[^1]: [scrum.org](https://www.scrum.org/)
+[^1]: [Scrum Org](https://www.scrum.org/)
 [^2]: [The Scrum Guide](https://scrumguides.org/)
 [^3]: [The Scrum Alliance](https://www.scrumalliance.org/)
