@@ -4,7 +4,7 @@ sidebar_position: 1
 tags:
     - Scrum
     - AOF
-    - garygreenburendo
+    - Auuthor - Gary Green
 ---
 
 # Scrum Theory

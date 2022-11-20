@@ -1,11 +1,10 @@
 ---
 title: Scrum
-author: garygreenburendo
 sidebar_position: 2
 tags:
     - Scrum
     - Frameworks
-    - garygreenburendo
+    - Author - Gary Green
 ---
 
 # Scrum
@@ -13,6 +12,8 @@ tags:
 ## Scrum Framework
 
 Scrum was developed in the early 1990s by [Jeff Sutherland](https://scrumguides.org/jeff.html) and [Ken Schwaber](https://scrumguides.org/ken.html).  The original version of the Scrum Guide (the basis for Scrum) was written in 2010, in order to support the adooption of Scrum.
+
+The Scrum Framework is designed to help Agile delivery teams become more effective, collaborate and offer transparency and clarity to stakeholders.
 
 The Scrum Guide contains the definition of Scrum and is constantly evolving / under review.  The latest Scrum Guide is availabel at [The Scrum Guide](https://scrumguides.org/).
 
@@ -37,19 +38,49 @@ Various processes, techniques and methods can be employed within the framework. 
 
 _&copy; The Scrum Guide November 2020[^2]_
 
-## Scrum Overview
+## Motivation behind Scrum
 
-![Scrum Diagram](https://www.scrumalliance.org/Media/2021/8/11/VER5-scrum-framework_2020-02lHo3kG0WFuHfo77D0Q.png)
+Scrum was founded to provide an evidence (or empirical) process, leveraging Lean thinking.  To be evidence based, we much learn from the past and mack decisions based on those observations.  Lean focuses on the reduction of waste as well as the focus on continuous improvement.
 
-_&copy; The Scrum Alliance[^3]_
+The framework is iterative (in that it uses repeated fixed time-boxes, called Sprints, to provide a structure that can be easily repeated) and incremental, in that, at the end of each iteration (Sprint), a new Product Increment is created, adding value beyond the previous iteration (Sprint).
 
-## Areas of Focus
+This iterative and incremental approach allows team to optimise their delivery and provide significantly improved predictability and risk control.
 
-* [Scrum Theory](/docs/Areas%20of%20Focus/Scrum/Scrum%20Theory) - The foundations of Scrum
-* [Scrum Values](/docs/Areas%20of%20Focus/Scrum/Scrum%20Values) - How we make sure that we are aligned to the goals and purpose of Agile and Scrum
-* [Scrum Team](/docs/Areas%20of%20Focus/Scrum/Scrum%20Team) - The team that will deliver solutions for our customers
-* [Scrum Events](/docs/Areas%20of%20Focus/Scrum/Scrum%20Events) - How we work as a team to deliver for our customers
-* [Scrum Artifacts](/docs/Areas%20of%20Focus/Scrum/Scrum%20Artifacts) - The tools (artifacts) we need in order to be transparent
+Scrum utilises a formal events structure to ensure transparency, inspection and adaptation:
+
+* **Transparency** - Make all work visible to those doing the work and receiving the work
+* **Inspection** - Inspect frequently and robustly to ensure that undesirable variances and problems are discovered and resolved
+* **Adaptation** - Providing the team with autonomy to correct unwanted deviations and experiment to improve the team's delivery
+
+## Values
+
+Scrum has five core values:
+
+* **Commitment** - The team commit to iteration (Sprint) goals.  This includes committing to each other to provide the necessary support to meet these goals
+* **Focus** - The team focus on the goals of the iteration (Sprint) to the exclusion of all other distractions
+* **Opeenness** - Be honest and transparent in the challenges, uncertainty, variances and risks associated with delivery
+* **Respect** - Respect each other, ensuring autonomy and support when needed
+* **Courage** - Have courage to always do the right thing and to resolve tough problems
+
+## Team
+
+This is the fundamental unit of Scrum.  This is a small group of individuals that consists of three core roles:
+
+* Scrum Master
+* Product Owner
+* Developers
+
+There are no hierarchies, but rather a united, cross-functional team with all the skills needed to get the job done and deliver the Product Goal.
+
+Scrum teams stay small, small enough to be nimble but large enough to be able to deliver a valuable goals every iteration (Sprint).  The team should be kept small to allow more effective communication and collaboration.
+
+As the Scrum Team have responsibility to deliver Goals within iterations (Sprints), this will include all tasks and duties require to deliver a potentially shippable Product Increment.  This can be challenging, at times, with increased deadlines and commitment from the Scrum Team.  A major tenet of Scrum is delivering to a sustainable pace, meaning that the Scrum Team can perform its delivery commitments indefinitely.  
+
+### Developers
+
+### Scrum Master
+
+### Product Owner
 
 ## External Links
 
@@ -59,4 +90,3 @@ _&copy; The Scrum Alliance[^3]_
 
 [^1]: [Scrum Org](https://www.scrum.org/)
 [^2]: [The Scrum Guide](https://scrumguides.org/)
-[^3]: [The Scrum Alliance](https://www.scrumalliance.org/)

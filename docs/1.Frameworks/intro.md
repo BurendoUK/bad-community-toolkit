@@ -1,7 +1,7 @@
 ---
 title: About Frameworks
 description: An introduction to BAD Tool Frameworks
-sidebar_position: 1
+sidebar_position: 0
 tags:
     - Introduction
 ---
@@ -18,7 +18,7 @@ have referred to these Activity versions as Framework activities.
 
 ## Frameworks
 
-* Scrum
+* [Scrum](scrum.md)
 * SAFe
 * LeSS
 * Liberating Structures
