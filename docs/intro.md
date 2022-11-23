@@ -13,7 +13,7 @@ Welcome to the BAD Tools Community Toolkit.  This Toolkit is open to all under /
 
 ## Contents
 
-* [Frameworks](/docs/Frameworks/intro) - Collections of capabilities to solve large problems
+* [Frameworks](/docs/Frameworks%20&20Toolkits/intro) - Collections of capabilities to solve large problems
 * [Areas of Focus](/docs/Areas%20of%20Focus/intro) - The Challenges we need to resolve
 * [Playbooks](/docs/Playbooks/intro) - How we resolve challenges
 * [Tools](/docs/Tools/intro) - Examples and Templates of solutions
@@ -22,5 +22,4 @@ Welcome to the BAD Tools Community Toolkit.  This Toolkit is open to all under /
 **For quick access, please see our tag index here -> [Index](tags)**
 ::: 
 
-## How to get involved
-
+[How to get involved](howto)

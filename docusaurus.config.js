@@ -112,7 +112,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} The BAD Toolit. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} The BAD Toolkit. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

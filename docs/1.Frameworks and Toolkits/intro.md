@@ -1,16 +1,15 @@
 ---
-title: About Frameworks
-description: An introduction to BAD Tool Frameworks
+title: About Frameworks and Toolkits
 sidebar_position: 0
 tags:
     - Introduction
 ---
 
-# About Frameworks
+# About Frameworks & Toolkits
 
 ## Introduction
 
-Frameworks are proven approaches or principles used to guide/ govern a change process.
+Frameworks & Toolkits are proven approaches or principles used to guide / govern a change process.
 
 Typically these focus on the delivery aspects of a product/project. Each framework often 
 has a specific version of an activity to specify approaches in a more granular way. We 
@@ -18,10 +17,7 @@ have referred to these Activity versions as Framework activities.
 
 ## Frameworks
 
-* [Scrum](scrum.md)
-* SAFe
-* LeSS
-* Liberating Structures
-* Team Topologies
+- [Blended Agile Delivery Toolkit (BAD)](BAD)
+- [Scrum Framework](scrum)
 
 etc...

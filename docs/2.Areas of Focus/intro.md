@@ -9,6 +9,4 @@ tags:
 
 ## Introduction
 
-This is a footnote [^1]
-
-[^1] Footnote
+Test

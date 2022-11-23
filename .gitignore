@@ -7,9 +7,10 @@
 .terraform.lock.hcl
 
 # node
-
 **/node_modules
 
 # docusaurus
-
 **/.docusaurus
+
+# Visual Studio
+**/.vscode
