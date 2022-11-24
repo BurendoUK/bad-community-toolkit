@@ -1,6 +1,6 @@
 ---
 title: BAD Tools Community Toolkit
-sidebar_position: 1
+sidebar_position: 0
 tags:
     - introduction
 ---
@@ -13,9 +13,13 @@ Welcome to the BAD Tools Community Toolkit.  This Toolkit is open to all under /
 
 ## Contents
 
-* [Frameworks](/docs/Frameworks/intro) - Collections of capabilities to solve large problems
+* [Frameworks](/docs/Frameworks%20&20Toolkits/intro) - Collections of capabilities to solve large problems
 * [Areas of Focus](/docs/Areas%20of%20Focus/intro) - The Challenges we need to resolve
-* [Solutions](/docs/Tools/intro) - How we resolve challenges
+* [Playbooks](/docs/Playbooks/intro) - How we resolve challenges
 * [Tools](/docs/Tools/intro) - Examples and Templates of solutions
 
-## How to get involved
+:::info
+**For quick access, please see our tag index here -> [Index](tags)**
+::: 
+
+[How to get involved](howto)

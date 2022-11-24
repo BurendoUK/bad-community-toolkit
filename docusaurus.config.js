@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/BADLogo.png', //'img/favicon.ico',
+  favicon: 'img/BADLogo.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -71,12 +71,12 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/garygreenBAD/docusaurus1',
+            href: 'https://github.com/burendoUK/bad-community-toolkit',
             label: 'GitHub',
             position: 'right',
-          },
+          }
         ],
-      },
+        },
       footer: {
         style: 'dark',
         links: [
@@ -112,7 +112,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Burendo Ltd. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} The BAD Toolkit. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -120,5 +120,6 @@ const config = {
       },
     }),
 };
+
 
 module.exports = config;
