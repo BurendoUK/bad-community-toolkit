@@ -4,6 +4,7 @@ sidebar_position: 4
 tags:
     - Scrum
     - Area of Focus
+    - Author - Gary Green
 ---
 
 # Scrum Events

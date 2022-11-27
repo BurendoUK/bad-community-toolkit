@@ -44,13 +44,13 @@ The Product Goal spans multiple iterations (Sprints).
 
 ## Sprint Backlog
 
-The Sprint Backlog is a selection of Product Backlog Items (PBIs) to be delivered within the next iteration (Sprint).  They are the what and how of the iteration (Sprint).  Married with the Sprint Goal (providing the why), this gives the [Scrum Team](Scrum%20Team) the tools they need to deliver the iteration (Sprint)
+The Sprint Backlog is a selection of Product Backlog Items (PBIs) to be delivered within the next iteration (Sprint).  They are the what and how of the iteration (Sprint).  Married with the Sprint Goal (providing the why), this gives the [Scrum Team](Scrum%20Team) the tools they need to deliver the iteration ([Sprint](Scrum%20Events#the-sprint))
 
 The Sprint Backlog is defined by the [Developers](Scrum%20Team#developers) as part of [Sprint Planning](Scrum%20Events#sprint-planning), in order to achieve the Sprint Goal.  The Sprint Backlog presents a real-time view of the the deliverables within the iteration (Sprint).
 
 ### Sprint Goal
 
-The Sprint Goal defines the objective of the iteration (Sprint).  It forms a commitment by the [Developers](Scrum%20Team#developers), providing flexibility, as needed to ensure the [Scrum Team](Scrum%20Team) achieve it.  It creates focus and a tangible outcome for the iteration (Sprint).
+The Sprint Goal defines the objective of the iteration ([Sprint](Scrum%20Events#the-sprint)).  It forms a commitment by the [Developers](Scrum%20Team#developers), providing flexibility, as needed to ensure the [Scrum Team](Scrum%20Team) achieve it.  It creates focus and a tangible outcome for the iteration (Sprint).
 
 The Sprint Goal is created at [Sprint Planning](Scrum%20Events#sprint-planning), in collaboration between the [Developers](Scrum%20Team#developers) and the [Product Owner](Scrum%20Team#product-owner).  It forms the "north star" for the iteration (Sprint) and allows for negotiation.
 
@@ -58,15 +58,15 @@ The Sprint Goal is created at [Sprint Planning](Scrum%20Events#sprint-planning),
 
 An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable.
 
-Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value.
+Multiple Increments may be created within a [Sprint](Scrum%20Events#the-sprint). The sum of the Increments is presented at the [Sprint Review](Scrum%20Events#sprint-review) thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of [the Sprint](Scrum%20Events#the-sprint). [The Sprint](Scrum%20Events#the-sprint) Review should never be considered a gate to releasing value.
 
 Work cannot be considered part of an Increment unless it meets the Definition of Done.
 
 ### Definition of Done
 
-The Definition of Done (DoD) is set of conditions that allow the [Scrum Team](Scrum%20Team) to ensure that Sprint Backlog Items are delivered to an acceptable measure of completion during an iteration (Sprint).  By all Scrum Backlog Items meeting the DoD, a [Product Increment](#prioduct-increment) is created.
+The Definition of Done (DoD) is set of conditions that allow the [Scrum Team](Scrum%20Team) to ensure that Sprint Backlog Items are delivered to an acceptable measure of completion during an iteration ([Sprint](Scrum%20Events#the-sprint)).  By all Scrum Backlog Items meeting the DoD, a [Product Increment](#prioduct-increment) is created.
 
-A DoD creates a consistent and visible measure what can be accepted as completed.  If a Sprint Backlog Item does not meet the DoD, then is cannot be classed as completed or presented at the [Sprint Review](Scrum%20Events#sprint-review).  At the end of the iteration (Sprint), it is returned to the Product Backlog for a future iteration (Sprint).
+A DoD creates a consistent and visible measure what can be accepted as completed.  If a Sprint Backlog Item does not meet the DoD, then is cannot be classed as completed or presented at the [Sprint Review](Scrum%20Events#sprint-review).  At the end of the iteration ([Sprint](Scrum%20Events#the-sprint)), it is returned to the Product Backlog for a future iteration ([Sprint](Scrum%20Events#the-sprint)).
 
 [Developers](Scrum%20Team#developer) are required to conform to the Definition of Done.
 

@@ -1,5 +1,4 @@
 // @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
@@ -12,16 +11,8 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/BADLogo.png',
+  favicon: 'img/BADLogo.png', 
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  //organizationName: 'Burendo', // Usually your GitHub org/user name.
-  //projectName: 'docusaurus1', // Usually your repo name.
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -34,17 +25,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          //editUrl:
-          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          //editUrl:
-          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -56,6 +39,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: 'support_us',
+        content:
+          'Warning: Alpha release',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: false,
+      },
       navbar: {
         title: 'BAD Tools Community Toolkit',
         logo: {
@@ -68,20 +59,18 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Toolkit',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          },         
           {
-            href: 'https://github.com/burendoUK/bad-community-toolkit',
-            label: 'GitHub',
+            type: 'search',
             position: 'right',
-          }
+          },
         ],
-        },
+      },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Toolit',
+            title: 'Toolkit',
             items: [
               {
                 label: 'Introduction',
@@ -94,7 +83,7 @@ const config = {
             items: [
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/burendouk',
               },
             ],
           },
@@ -102,17 +91,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
                 href: 'https://github.com/garygreenBAD/docusaurus1',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} The BAD Toolkit. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Burendo Ltd. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -120,6 +105,5 @@ const config = {
       },
     }),
 };
-
 
 module.exports = config;

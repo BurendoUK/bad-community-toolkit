@@ -70,6 +70,16 @@ Scrum has five core values:
 
 * [Scrum Team](../2.Areas%20of%20Focus/Scrum/Scrum%20Team.md)
 * [Scrum Events](../2.Areas%20of%20Focus/Scrum/Scrum%20Events.md)
-* [Scrum Artifaces](../2.Areas%20of%20Focus/Scrum/Scrum%20Artifacts.md)
+* [Scrum Artifacts](../2.Areas%20of%20Focus/Scrum/Scrum%20Artifacts.md)
+
+## Scrum Playbooks
+
+[todo]
+
+## Scrum Tools
+
+* [Scrum in Confluence](/docs/Tools/Scrum/Scrum%20Confluence)
+* [Scrum in Jira](/docs/Tools/Scrum/Scrum%20Jira)
+
 
 [^1]: [The Scrum Guide](https://scrumguides.org/)
