@@ -5,8 +5,8 @@ import styles from './styles.module.css';
 const FeatureList = [
 
   {
-    title: 'Blueprints',
-    Svg: require('@site/static/img/bad-solutions.svg').default,
+    title: 'Frameworks & Toolkits',
+    Svg: require('@site/static/img/noun-toolkit-1219394-066BEB.svg').default,
     description: (
       <>
         Combinations of Frameworks and Toolkits that help organisations solve larger problems
@@ -15,20 +15,20 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Downloads',
-    Svg: require('@site/static/img/bad-downloads.svg').default,
+    title: 'Playbooks & Cheatsheets',
+    Svg: require('@site/static/img/noun-sport-tactics-2383405-066BEB.svg').default,
     description: (
       <>
-        Cheat Sheets to take away and help you adopt the toolkit
+        How-to Playbooks and Cheat Sheets to take away and help you adopt the toolkit
       </>
     ),
   },  
   {
-    title: 'Examples',
-    Svg: require('@site/static/img/bad-examples.svg').default,
+    title: 'Templates & Examples',
+    Svg: require('@site/static/img/noun-template-2409443-066BEB.svg').default,
     description: (
       <>
-        Industry specific examples based on real world scenarios
+        Industry specific Templates & Examples based on real world scenarios
       </>
     ),
   },
