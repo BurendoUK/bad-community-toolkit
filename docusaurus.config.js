@@ -45,7 +45,7 @@ const config = {
           'Warning: Alpha release',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
-        isCloseable: false,
+        isCloseable: true,
       },
       navbar: {
         title: 'BAD Tools Community Toolkit',
@@ -67,7 +67,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Toolkit',
@@ -75,6 +75,22 @@ const config = {
               {
                 label: 'Introduction',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Frameworks & Toolkits',
+                to: '/docs/Frameworks%20and%20Toolkits/intro',
+              },
+              {
+                label: 'Areas of Focus',
+                to: '/docs/Areas%20of%20Focus/intro',
+              },
+              {
+                label: 'Playbooks & Cheatsheets',
+                to: '/docs/Playbooks/intro',
+              },
+              {
+                label: 'Templates & Examples',
+                to: '/docs/Tools/intro',
               },
             ],
           },
@@ -85,11 +101,23 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/burendouk',
               },
+              {
+                label: 'LinkedIn',
+                href: 'https://twitter.com/burendouk',
+              },
+              {
+                label: 'Slack',
+                href: 'https://twitter.com/burendouk',
+              },
             ],
           },
           {
             title: 'More',
             items: [
+              {
+                label: 'Burendo',
+                href: 'https://burendo.com',
+              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/garygreenBAD/docusaurus1',
@@ -97,7 +125,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Burendo Ltd. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} and sponsored by Burendo Ltd.  Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

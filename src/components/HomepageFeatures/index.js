@@ -6,7 +6,8 @@ const FeatureList = [
 
   {
     title: 'Frameworks & Toolkits',
-    Svg: require('@site/static/img/noun-toolkit-1219394-066BEB.svg').default,
+    Svg: require('@site/static/img/noun-toolkit-154266-066BEB.svg').default,
+    href: '/docs/intro',
     description: (
       <>
         Combinations of Frameworks and Toolkits that help organisations solve larger problems
