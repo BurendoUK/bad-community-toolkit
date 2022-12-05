@@ -3,14 +3,13 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
-
   {
     title: 'Frameworks & Toolkits',
     Svg: require('@site/static/img/noun-toolkit-154266-066BEB.svg').default,
-    href: '/docs/intro',
+    link: '/docs/intro',
     description: (
       <>
-        Combinations of Frameworks and Toolkits that help organisations solve larger problems
+        <a href="/docs/Frameworks%20and%20Toolkits/intro">Combinations of Frameworks and Toolkits that help organisations solve larger problems</a>
 
       </>
     ),
@@ -20,7 +19,7 @@ const FeatureList = [
     Svg: require('@site/static/img/noun-sport-tactics-2383405-066BEB.svg').default,
     description: (
       <>
-        How-to Playbooks and Cheat Sheets to take away and help you adopt the toolkit
+        <a href="/docs/Playbooks/intro">How-to Playbooks and Cheat Sheets to take away and help you adopt the toolkit</a>
       </>
     ),
   },  
@@ -29,7 +28,7 @@ const FeatureList = [
     Svg: require('@site/static/img/noun-template-2409443-066BEB.svg').default,
     description: (
       <>
-        Industry specific Templates & Examples based on real world scenarios
+        <a href="/docs/Tools/intro">Industry specific Templates & Examples based on real world scenarios</a>
       </>
     ),
   },

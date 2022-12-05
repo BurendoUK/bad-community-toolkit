@@ -59,11 +59,12 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Toolkit',
-          },         
+          }, 
           {
-            type: 'search',
+            type: 'html',
             position: 'right',
-          },
+            value: '<a href="https://burendo.com" target="_blank"><IMG src="/img/Burendo_Landscape_RGB.png" width=120></a>',
+          },    
         ],
       },
       footer: {
@@ -98,6 +99,9 @@ const config = {
             title: 'Community',
             items: [
               {
+                label: 'License',
+                href: 'https://creativecommons.org/licenses/by/4.0/',
+              },{
                 label: 'Twitter',
                 href: 'https://twitter.com/burendouk',
               },
@@ -115,17 +119,20 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'BAD.tools',
+                href: 'https://bad.tools',
+              },              {
                 label: 'Burendo',
                 href: 'https://burendo.com',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/garygreenBAD/docusaurus1',
+                label: 'Community Toolkit GitHub',
+                href: 'https://github.com/BurendoUK/bad-community-toolkit',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} and sponsored by Burendo Ltd.  Built with Docusaurus.`,
+        copyright: `<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png"/></a> by <a href="https://bad.tools" target="_blank"><img src="/img/BADLogo.png" width=15> The BAD Toolkit</a> sponsored by <a href="https://burendo.com" target="_blank"><img src="/img/Burendo_Symbol_RGB.png" width=15> Burendo</a> built with Docusaurus`,
       },
       prism: {
         theme: lightCodeTheme,
