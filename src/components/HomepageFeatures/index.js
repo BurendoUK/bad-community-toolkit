@@ -5,41 +5,38 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Frameworks & Toolkits',
+    link: '/docs/Frameworks%20and%20Toolkits/intro',
     Svg: require('@site/static/img/noun-toolkit-154266-066BEB.svg').default,
-    link: '/docs/intro',
     description: (
-      <>
-        <a href="/docs/Frameworks%20and%20Toolkits/intro">Combinations of Frameworks and Toolkits that help organisations solve larger problems</a>
-
-      </>
+        <>Combinations of Frameworks and Toolkits that help organisations solve larger problems</>
     ),
   },
   {
     title: 'Playbooks & Cheatsheets',
+    link: '/docs/Playbooks/intro',
     Svg: require('@site/static/img/noun-sport-tactics-2383405-066BEB.svg').default,
     description: (
-      <>
-        <a href="/docs/Playbooks/intro">How-to Playbooks and Cheat Sheets to take away and help you adopt the toolkit</a>
-      </>
+        <>How-to Playbooks and Cheat Sheets to take away and help you adopt the toolkit</>
     ),
   },  
   {
     title: 'Templates & Examples',
+    link: '/docs/Tools/intro',
     Svg: require('@site/static/img/noun-template-2409443-066BEB.svg').default,
     description: (
-      <>
-        <a href="/docs/Tools/intro">Industry specific Templates & Examples based on real world scenarios</a>
-      </>
+        <>Industry specific Templates & Examples based on real world scenarios</>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, link, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
+      <a href={link}>
+        <div className="text--center">
+          <Svg className={styles.featureSvg} role="img" />
+        </div>
+      </a>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
