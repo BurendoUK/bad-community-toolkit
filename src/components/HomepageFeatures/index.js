@@ -6,7 +6,7 @@ const FeatureList = [
   {
     title: 'Frameworks & Toolkits',
     link: '/docs/Frameworks%20and%20Toolkits/intro',
-    Svg: require('@site/static/img/noun-toolkit-154266-066BEB.svg').default,
+    Svg: require('@site/static/img/bad-toolkit.svg').default,
     description: (
         <>Combinations of Frameworks and Toolkits that help organisations solve larger problems</>
     ),
@@ -14,7 +14,7 @@ const FeatureList = [
   {
     title: 'Playbooks & Cheatsheets',
     link: '/docs/Playbooks/intro',
-    Svg: require('@site/static/img/noun-sport-tactics-2383405-066BEB.svg').default,
+    Svg: require('@site/static/img/bad-solutions.svg').default,
     description: (
         <>How-to Playbooks and Cheat Sheets to take away and help you adopt the toolkit</>
     ),
@@ -22,7 +22,7 @@ const FeatureList = [
   {
     title: 'Templates & Examples',
     link: '/docs/Tools/intro',
-    Svg: require('@site/static/img/noun-template-2409443-066BEB.svg').default,
+    Svg: require('@site/static/img/bad-downloads.svg').default,
     description: (
         <>Industry specific Templates & Examples based on real world scenarios</>
     ),

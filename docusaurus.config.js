@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'BAD Tools Community Toolkit',
+  title: 'BAD Community Toolkit',
   tagline: 'Blended Agile Delivery Toolkit',
   url: 'https://bad.tools',
   baseUrl: '/',
@@ -132,7 +132,7 @@ const config = {
             ],
           },
         ],
-        copyright: `<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png"/></a> by <a href="https://bad.tools" target="_blank"><img src="/img/BADLogo.png" width=15> The BAD Toolkit</a>. Built with Docusaurus`,
+        copyright: `<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png"/></a> <a href="https://bad.tools" target="_blank"><img src="/img/BADLogo.png" width=15> The BAD Toolkit</a>. Built with Docusaurus`,
       },
       prism: {
         theme: lightCodeTheme,
